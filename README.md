@@ -14,10 +14,7 @@ The repo can be cloned for integrated used connected with you own front end.
 
 ## Demonstration
 To see the application in action, check out the walkthrough video
-https://drive.google.com/file/d/1QNEcsCZ8DS_hBSXMxDfXY3_JJ50eN375/view
-
-## Known Issues
-There seems to be an error in the DELETE routes, but all others are working fine.
+https://drive.google.com/file/d/16uQS46NjirMcAGkmSSPRKqfCoBRqTrhx/view
 
 ## GitHub
 Repo: https://github.com/LaurenR01/HW13ECommerceBackEnd
